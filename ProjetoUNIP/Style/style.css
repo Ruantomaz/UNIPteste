@@ -1,0 +1,53 @@
+h2 
+{
+    margin-left: 20%;
+    color: rgb(0, 0, 139);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 1%;
+    color: rgb(0, 0, 139);
+    text-transform: uppercase;
+    border-collapse: separate;
+
+
+}
+
+h5
+{
+    font-size: 15px;
+    color: rgb(0, 0, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+td
+{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 1%;
+    color: rgb(0, 0, 139);
+    text-transform: uppercase;
+    border-collapse: separate;
+}
+
+.style
+{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    color: #00008b;
+    font-family: Verdana;
+    font-size: 30Px;
+}
+
+img 
+{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+

@@ -1,0 +1,4 @@
+C:\Users\ruan.leite\Documents\Projetos C# BALTA\ProjetoTeste\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan.leite\Documents\Projetos C# BALTA\ProjetoTeste\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\ruan.leite\Documents\Projetos C# BALTA\ProjetoTeste\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\ruan.leite\Documents\Projetos C# BALTA\ProjetoTeste\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
